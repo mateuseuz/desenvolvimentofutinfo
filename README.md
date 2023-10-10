@@ -9,4 +9,4 @@ A navbar dispõe de quatro seções:
 - **Seguindo** - Seção para acompanhar o desempenho, transferências, títulos etc. dos times que o usuário segue no aplicativo;
 - **Perfil** - Seção de configuração e visualização do perfil do usuário, onde ele poderá alterar suas preferências.
 
-### Link do protótipo: [clique aqui](https://rp.mockplus.com/team/invitation/3LYdXeGxnd/kbemjdogor).
+## Link do protótipo: [clique aqui](https://rp.mockplus.com/team/invitation/3LYdXeGxnd/kbemjdogor).
