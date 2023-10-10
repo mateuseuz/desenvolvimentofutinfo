@@ -10,3 +10,5 @@ A navbar dispõe de quatro seções:
 - **Perfil** - Seção de configuração e visualização do perfil do usuário, onde ele poderá alterar suas preferências.
 
 ## Link do protótipo: [clique aqui](https://rp.mockplus.com/team/invitation/3LYdXeGxnd/kbemjdogor).
+
+Alunos: Mateus Euzébio, Felipe Tozzi e Kauam Henrique.
